@@ -1,0 +1,18 @@
+[
+    {
+        "username":"hacker01",
+        "password":"hashedpassword1"
+    },
+    {
+        "username":"hacker02",
+        "password":"hashedpassword2"
+    },
+    {
+        "username":"ualvesdias",
+        "password":"mypassword"
+    },
+    {
+        "username":"bot",
+        "password":"botsupersecretpassword"
+    }
+]

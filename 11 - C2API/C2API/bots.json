@@ -1,0 +1,26 @@
+[
+    {
+        "bot_id": "student@921188649",
+        "version": 1.13,
+        "online": "False",
+        "last_check": 20190612152308,
+        "hostname": "win-7",
+        "ip": "192.168.1.195"
+    },
+    {
+        "bot_id": "blablabla@-2065872115",
+        "version": 1.15,
+        "online": "False",
+        "last_check": 20200129115224,
+        "hostname": "DIC-Ntbk-LZ",
+        "ip": "192.168.11.1"
+    },
+    {
+        "bot_id": "Ulisses@548286839",
+        "version": 1.15,
+        "online": "True",
+        "last_check": 20200828194946,
+        "hostname": "YT-1300",
+        "ip": "192.168.200.101"
+    }
+]
